@@ -1,0 +1,14 @@
+*{
+    background-color: pink;
+}
+.head1{
+    background-color: lavender;
+    padding:10px;
+}
+.head{
+    background-color: beige;
+    padding: 10px;
+    border: 2px solid red;
+    margin: 20px;
+    width:300px;
+}
